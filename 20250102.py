@@ -11,8 +11,8 @@ from io import StringIO
 API_KEY = '2qQyTVjIsPnKqL8I33jJnLLs67I'
 MAX_POS = 0.005  # 最大持仓量 (BTC)
 EXCHANGE = ccxt.bybit({
-    'apiKey': 'AFdnF6qim8psBUCfAL',
-    'secret': 'dkgiiBX1JoHD86EmP1WpNkHUhOGvhhPTCSIV',
+    'apiKey': '*********',
+    'secret': '*********',
     'proxies': {
         'http': 'http://127.0.0.1:15236',
         'https': 'http://127.0.0.1:15236'
