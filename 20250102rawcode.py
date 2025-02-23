@@ -6,7 +6,7 @@ import time
 import requests
 
 # ===== 全局设置 =====
-API_KEY = '2qQyTVjIsPnKqL8I33jJnLLs67I'
+API_KEY = '************'
 MAX_POS = 0.005  # 最大持仓量 (BTC)
 EXCHANGE = ccxt.bybit({
     'apiKey': '************',
